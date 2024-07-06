@@ -1,0 +1,14 @@
+program app_elementos;
+
+uses
+  Vcl.Forms,
+  uFrmP in 'uFrmP.pas' {FrmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.Run;
+end.

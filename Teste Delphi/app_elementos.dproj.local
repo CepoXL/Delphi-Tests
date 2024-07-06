@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/05 17:12:43.000.947,=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/05 17:13:29.000.343,C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\uFrmP.dfm=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/05 17:13:29.000.343,C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\uFrmP.pas=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/05 17:13:40.000.530,C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\app_elementos.dproj=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/06 16:18:30.000.259,=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/07/06 16:19:07.000.259,C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\Unit1.pas=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\uFrmDataHora.pas</Transaction>
+    <Transaction>2024/07/06 16:19:07.000.259,C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\Unit1.dfm=C:\Users\davis_c12wmxt\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste Delphi\uFrmDataHora.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
